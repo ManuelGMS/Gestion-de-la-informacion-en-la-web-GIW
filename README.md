@@ -1,1 +1,1 @@
-# Gesti-n-de-la-informaci-n-en-la-web-GIW
+# Prácticas resueltas de la asignatura Gestión de información en la web GIW de la UCM
